@@ -1,0 +1,51 @@
+CI_ID,Name,Business_Owner,Criticality,User_Base,DR_Plan,Vendor,Support_Level,Service_ID,Module,Legal_Entity,IKT_CI,KRITIS_relevant,CIA_Confidentiality,CIA_Integrity,CIA_Availability,Related_CI_ID,Relation_Type
+APP-5001,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-1,Finanz,Global Corp,Nein,Ja,3,1,2,DB-3047,depends on
+APP-5002,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-2,Finanz,Global Corp,Nein,Ja,3,3,1,DB-3002,depends on
+APP-5003,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-3,Finanz,Global Corp,Ja,Nein,3,3,2,DB-3035,depends on
+APP-5004,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-4,Finanz,Global Corp,Nein,Nein,2,3,3,DB-3039,depends on
+APP-5005,App-HR,Dept-IT,High,500,Existiert,SAP,24/7,SID-5,Finanz,Global Corp,Nein,Ja,2,2,2,DB-3026,depends on
+APP-5006,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-6,Finanz,Global Corp,Nein,Nein,3,3,1,DB-3025,depends on
+APP-5007,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-7,Finanz,Global Corp,Ja,Ja,3,2,2,DB-3001,depends on
+APP-5008,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-8,Finanz,Global Corp,Nein,Nein,2,3,2,DB-3033,depends on
+APP-5009,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-9,Finanz,Global Corp,Ja,Nein,3,2,2,DB-3038,depends on
+APP-5010,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-10,Finanz,Global Corp,Nein,Nein,3,3,3,DB-3004,depends on
+APP-5011,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-11,Finanz,Global Corp,Nein,Nein,3,3,2,DB-3005,depends on
+APP-5012,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-12,Finanz,Global Corp,Ja,Nein,3,3,2,DB-3016,depends on
+APP-5013,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-13,Finanz,Global Corp,Nein,Ja,3,2,2,DB-3039,depends on
+APP-5014,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-14,Finanz,Global Corp,Nein,Nein,2,3,2,DB-3012,depends on
+APP-5015,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-15,Finanz,Global Corp,Nein,Nein,1,3,3,DB-3035,depends on
+APP-5016,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-16,Finanz,Global Corp,Nein,Nein,1,3,2,DB-3002,depends on
+APP-5017,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-17,Finanz,Global Corp,Ja,Ja,2,3,1,DB-3034,depends on
+APP-5018,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-18,Finanz,Global Corp,Ja,Nein,1,1,3,DB-3047,depends on
+APP-5019,App-HR,Dept-IT,High,500,Existiert,SAP,24/7,SID-19,Finanz,Global Corp,Nein,Nein,3,2,2,DB-3019,depends on
+APP-5020,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-20,Finanz,Global Corp,Ja,Ja,1,2,3,DB-3046,depends on
+APP-5021,App-HR,Dept-IT,High,500,Existiert,SAP,24/7,SID-21,Finanz,Global Corp,Ja,Nein,1,2,2,DB-3033,depends on
+APP-5022,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-22,Finanz,Global Corp,Ja,Nein,3,3,3,DB-3033,depends on
+APP-5023,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-23,Finanz,Global Corp,Ja,Ja,2,3,3,DB-3044,depends on
+APP-5024,App-HR,Dept-IT,High,500,Existiert,SAP,24/7,SID-24,Finanz,Global Corp,Ja,Nein,1,2,1,DB-3007,depends on
+APP-5025,App-HR,Dept-IT,High,500,Existiert,SAP,24/7,SID-25,Finanz,Global Corp,Ja,Ja,1,3,2,DB-3023,depends on
+APP-5026,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-26,Finanz,Global Corp,Nein,Nein,2,3,2,DB-3005,depends on
+APP-5027,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-27,Finanz,Global Corp,Ja,Ja,2,2,2,DB-3038,depends on
+APP-5028,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-28,Finanz,Global Corp,Nein,Ja,3,3,1,DB-3035,depends on
+APP-5029,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-29,Finanz,Global Corp,Nein,Ja,3,3,3,DB-3049,depends on
+APP-5030,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-30,Finanz,Global Corp,Nein,Ja,2,2,3,DB-3033,depends on
+APP-5031,App-HR,Dept-IT,High,500,Existiert,SAP,24/7,SID-31,Finanz,Global Corp,Nein,Ja,3,1,1,DB-3006,depends on
+APP-5032,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-32,Finanz,Global Corp,Nein,Nein,3,3,2,DB-3036,depends on
+APP-5033,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-33,Finanz,Global Corp,Ja,Nein,1,2,2,DB-3019,depends on
+APP-5034,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-34,Finanz,Global Corp,Ja,Ja,3,1,2,DB-3017,depends on
+APP-5035,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-35,Finanz,Global Corp,Ja,Nein,2,1,1,DB-3019,depends on
+APP-5036,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-36,Finanz,Global Corp,Ja,Ja,3,2,3,DB-3028,depends on
+APP-5037,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-37,Finanz,Global Corp,Nein,Nein,2,2,3,DB-3010,depends on
+APP-5038,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-38,Finanz,Global Corp,Ja,Ja,2,2,1,DB-3002,depends on
+APP-5039,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-39,Finanz,Global Corp,Nein,Nein,3,1,2,DB-3022,depends on
+APP-5040,App-HR,Dept-IT,High,500,Existiert,SAP,24/7,SID-40,Finanz,Global Corp,Ja,Nein,1,3,3,,
+APP-5041,App-HR,Dept-IT,High,500,Existiert,SAP,24/7,SID-41,Finanz,Global Corp,Ja,Ja,1,1,3,,
+APP-5042,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-42,Finanz,Global Corp,Ja,Ja,1,3,3,,
+APP-5043,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-43,Finanz,Global Corp,Nein,Nein,1,2,2,,
+APP-5044,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-44,Finanz,Global Corp,Nein,Ja,3,1,3,,
+APP-5045,App-HR,Dept-IT,High,500,Existiert,SAP,24/7,SID-45,Finanz,Global Corp,Nein,Nein,3,2,3,,
+APP-5046,App-CRM,Dept-IT,High,500,Existiert,SAP,24/7,SID-46,Finanz,Global Corp,Ja,Ja,3,2,2,,
+APP-5047,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-47,Finanz,Global Corp,Ja,Ja,2,3,1,,
+APP-5048,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-48,Finanz,Global Corp,Nein,Ja,2,3,1,,
+APP-5049,App-Banking,Dept-IT,High,500,Existiert,SAP,24/7,SID-49,Finanz,Global Corp,Nein,Nein,1,3,3,,
+APP-5050,App-ERP,Dept-IT,High,500,Existiert,SAP,24/7,SID-50,Finanz,Global Corp,Ja,Ja,2,1,1,,

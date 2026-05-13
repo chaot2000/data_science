@@ -1,0 +1,51 @@
+CI_ID,Name,Engine,Version,Port,Size_GB,Backup,Encrypted,Environment,Admin_Group,Owner,Cluster,IKT_CI,KRITIS_relevant,CIA_Confidentiality,CIA_Integrity,CIA_Availability,Related_CI_ID,Relation_Type
+DB-3001,DB_PG_1,MSSQL,15.x,1433,675,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Nein,2,2,2,WIN-SRV-1030,runs on
+DB-3002,DB_PG_2,Oracle,15.x,1433,646,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,1,2,2,WIN-SRV-1008,runs on
+DB-3003,DB_PG_3,Oracle,15.x,1433,313,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,3,1,2,LIN-SRV-2005,runs on
+DB-3004,DB_ORA_4,PostgreSQL,15.x,1433,111,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,3,3,2,WIN-SRV-1030,runs on
+DB-3005,DB_SQL_5,Oracle,15.x,1433,569,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,3,2,2,LIN-SRV-2023,runs on
+DB-3006,DB_ORA_6,MSSQL,15.x,1433,428,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,3,1,1,WIN-SRV-1015,runs on
+DB-3007,DB_ORA_7,Oracle,15.x,1433,479,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Nein,1,1,2,WIN-SRV-1003,runs on
+DB-3008,DB_PG_8,MSSQL,15.x,1433,705,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,1,2,3,WIN-SRV-1019,runs on
+DB-3009,DB_PG_9,PostgreSQL,15.x,1433,62,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,3,2,2,LIN-SRV-2004,runs on
+DB-3010,DB_PG_10,Oracle,15.x,1433,388,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,2,2,1,WIN-SRV-1019,runs on
+DB-3011,DB_PG_11,MSSQL,15.x,1433,97,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,3,3,1,LIN-SRV-2046,runs on
+DB-3012,DB_SQL_12,MSSQL,15.x,1433,427,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,1,3,2,LIN-SRV-2004,runs on
+DB-3013,DB_PG_13,MSSQL,15.x,1433,884,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Nein,2,3,2,WIN-SRV-1016,runs on
+DB-3014,DB_SQL_14,PostgreSQL,15.x,1433,932,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,2,3,3,LIN-SRV-2011,runs on
+DB-3015,DB_PG_15,MSSQL,15.x,1433,681,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,2,3,1,LIN-SRV-2047,runs on
+DB-3016,DB_SQL_16,PostgreSQL,15.x,1433,772,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,2,2,1,LIN-SRV-2023,runs on
+DB-3017,DB_ORA_17,MSSQL,15.x,1433,812,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,3,2,1,LIN-SRV-2005,runs on
+DB-3018,DB_SQL_18,Oracle,15.x,1433,388,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,1,3,2,LIN-SRV-2009,runs on
+DB-3019,DB_PG_19,Oracle,15.x,1433,983,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,3,3,3,WIN-SRV-1030,runs on
+DB-3020,DB_SQL_20,Oracle,15.x,1433,228,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,3,3,1,LIN-SRV-2023,runs on
+DB-3021,DB_PG_21,Oracle,15.x,1433,783,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,1,3,1,WIN-SRV-1002,runs on
+DB-3022,DB_SQL_22,MSSQL,15.x,1433,174,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Nein,2,1,3,WIN-SRV-1036,runs on
+DB-3023,DB_ORA_23,MSSQL,15.x,1433,735,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,1,3,2,LIN-SRV-2009,runs on
+DB-3024,DB_PG_24,Oracle,15.x,1433,945,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,1,2,3,LIN-SRV-2028,runs on
+DB-3025,DB_SQL_25,Oracle,15.x,1433,865,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Nein,3,2,2,LIN-SRV-2040,runs on
+DB-3026,DB_ORA_26,PostgreSQL,15.x,1433,899,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,1,1,3,LIN-SRV-2030,runs on
+DB-3027,DB_ORA_27,MSSQL,15.x,1433,427,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,1,3,3,WIN-SRV-1049,runs on
+DB-3028,DB_ORA_28,MSSQL,15.x,1433,577,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Nein,3,3,1,LIN-SRV-2009,runs on
+DB-3029,DB_ORA_29,PostgreSQL,15.x,1433,594,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,3,3,2,LIN-SRV-2006,runs on
+DB-3030,DB_PG_30,Oracle,15.x,1433,464,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,3,3,2,LIN-SRV-2044,runs on
+DB-3031,DB_PG_31,MSSQL,15.x,1433,727,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,3,3,3,LIN-SRV-2001,runs on
+DB-3032,DB_ORA_32,Oracle,15.x,1433,629,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,1,2,2,WIN-SRV-1047,runs on
+DB-3033,DB_PG_33,PostgreSQL,15.x,1433,734,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Nein,2,2,2,WIN-SRV-1041,runs on
+DB-3034,DB_PG_34,PostgreSQL,15.x,1433,306,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,3,2,3,LIN-SRV-2005,runs on
+DB-3035,DB_PG_35,Oracle,15.x,1433,507,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,2,3,3,WIN-SRV-1007,runs on
+DB-3036,DB_ORA_36,PostgreSQL,15.x,1433,204,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,3,3,3,WIN-SRV-1017,runs on
+DB-3037,DB_PG_37,MSSQL,15.x,1433,825,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,1,1,1,LIN-SRV-2019,runs on
+DB-3038,DB_ORA_38,MSSQL,15.x,1433,942,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,1,2,2,LIN-SRV-2018,runs on
+DB-3039,DB_PG_39,Oracle,15.x,1433,759,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Nein,1,2,2,WIN-SRV-1022,runs on
+DB-3040,DB_SQL_40,MSSQL,15.x,1433,507,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,2,2,2,LIN-SRV-2035,runs on
+DB-3041,DB_ORA_41,MSSQL,15.x,1433,967,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,1,1,2,WIN-SRV-1050,runs on
+DB-3042,DB_PG_42,PostgreSQL,15.x,1433,59,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,2,2,2,LIN-SRV-2030,runs on
+DB-3043,DB_ORA_43,Oracle,15.x,1433,354,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,2,2,2,LIN-SRV-2041,runs on
+DB-3044,DB_SQL_44,MSSQL,15.x,1433,190,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,3,2,2,LIN-SRV-2024,runs on
+DB-3045,DB_SQL_45,PostgreSQL,15.x,1433,969,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,3,1,1,,
+DB-3046,DB_SQL_46,MSSQL,15.x,1433,227,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,1,2,3,,
+DB-3047,DB_ORA_47,PostgreSQL,15.x,1433,821,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,1,1,1,,
+DB-3048,DB_SQL_48,MSSQL,15.x,1433,383,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Nein,3,1,3,,
+DB-3049,DB_SQL_49,Oracle,15.x,1433,679,Daily,Yes,Prod,DBA-Team,Data-Services,No,Ja,Ja,3,3,1,,
+DB-3050,DB_ORA_50,MSSQL,15.x,1433,947,Daily,Yes,Prod,DBA-Team,Data-Services,No,Nein,Ja,1,2,1,,
